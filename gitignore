@@ -1,0 +1,21 @@
+gitignore
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+_pycache_/
+*.py[cod]
+env/
+venv/
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Build / dist folders
+dist/
+build/
+
+# Logs
+*.log
